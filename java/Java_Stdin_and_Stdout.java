@@ -1,3 +1,4 @@
+https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true
 import java.util.*;
 
 public class Solution {
